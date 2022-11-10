@@ -1,3 +1,3 @@
-# CosineAA.github.io
+# 코사인 깃허브 페이지
 
 **반갑다**
